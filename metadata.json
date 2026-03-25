@@ -1,0 +1,5 @@
+{
+  "name": "Topic Insight Pro: AI 기반 키워드 분석 대시보드",
+  "description": "LDA 및 NMF 토픽 모델링 결과를 바탕으로 비즈니스 인사이트와 액션 플랜을 제공하는 인포그래픽 대시보드입니다.",
+  "requestFramePermissions": []
+}
